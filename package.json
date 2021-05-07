@@ -1,0 +1,22 @@
+{
+  "name": "hospital_management_system",
+  "description": "We should make an open-source project with real-time monitoring system for the hospital management system to track how many beds in the hospital and able to track and get contact from genuine oxygen cylinder providers. Also, the hospital can update the stock of medicine to the manufacturer for more manufacture the product.\r The number of bed and oxygen cylinder can be visible to any person without login.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSDjeet/Hospital_management_system.git"
+  },
+  "author": "Shubhajeet Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheSDjeet/Hospital_management_system/issues"
+  },
+  "homepage": "https://github.com/TheSDjeet/Hospital_management_system#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
