@@ -24,6 +24,15 @@ app.get("/support", function (req, res) {
 
 app.get("/help", function (req, res) {
     res.render("help");
+});
+
+app.get("/hospitals", function (req, res) {
+    console.log("hospital");
+    res.render("hospital");
+});
+
+app.get("/oxygen", function (req, res) {
+    res.render("oxygen");
 })
 
 app.listen(3000, function () {
