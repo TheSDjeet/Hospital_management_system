@@ -1,3 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital@0;1&display=swap");
 .red {
   color: red;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  /* border: 3px solid green;
+  padding: 10px; */
+}
+
+.mid {
+  margin: auto;
+  width: 50%;
+}
+
+.find-near-bed {
+  font-family: Rubik, sans-serif;
+}
+
+.image-home {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
 }
